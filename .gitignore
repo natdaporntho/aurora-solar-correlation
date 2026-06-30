@@ -29,3 +29,10 @@ codes/dst.csv
 ~$*.pptx
 ~$*.xlsx
 ~$*.doc
+
+# Personal reports (keep locally, not on GitHub)
+/*.pdf
+/*.pptx
+/*.doc
+/*.docx
+/STT51/
