@@ -9,20 +9,22 @@ This project investigates the correlation between **auroral activity indices** (
 ## 📁 Project Structure
 
 ```
+Project2/
 ├── codes/
-│   ├── aurora_solar_correlation.ipynb     # Main analysis notebook
-│   ├── graphes/                            # Generated plots and figures
-│   ├── WSO_polarfield.txt                  # Polar magnetic field data
-│   ├── kpdata.txt, kpdata1964.txt          # Kp, SSN, F10.7 index data
-│   ├── OULU_*.csv                          # OULU neutron monitor data
-│   ├── WWW_dstae*.dat.txt                  # AE and Dst index data
-│   ├── apty.html, Apatity cosmic ray station2.html
-│   ├── huan-nm.html                        # Huancayo NM data
-│   ├── jung1.html                          # Jungfraujoch NM data
-│   ├── thulefull.html, thuleadd.html       # Thule NM data
-│   └── psnm.csv                            # PSNM (McMurdo) NM data
-├── references/                             # Research papers (PDF)
-├── .gitignore
+│   ├── aurora_solar_correlation.ipynb   # Main analysis notebook
+│   ├── graphes/                          # Generated plots and figures
+│   ├── WSO_polarfield.txt                # Polar magnetic field data
+│   ├── kpdata.txt, kpdata1964.txt        # Kp, SSN, F10.7 index data
+│   ├── OULU_*.csv                        # OULU neutron monitor data
+│   ├── WWW_dstae*.dat.txt               # AE and Dst index data
+│   ├── apty.html, Apatity cosmic ray station2.html  # Apatity NM data
+│   ├── huan-nm.html                      # Huancayo NM data
+│   ├── jung1.html                        # Jungfraujoch NM data
+│   ├── thulefull.html, thuleadd.html    # Thule NM data
+│   └── psnm.csv                          # PSNM (McMurdo) NM data
+├── references/                           # Research papers (PDF)
+├── STT51/                                # STT51 conference materials
+├── Reports/                              # Reports directory
 └── README.md
 ```
 
