@@ -16,8 +16,8 @@ build/
 Thumbs.db
 
 # Generated/derived data files
-codes/ae.csv
-codes/dst.csv
+data/ae.csv
+data/dst.csv
 
 # Large media files (optional)
 *.mp4
