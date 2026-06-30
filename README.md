@@ -84,6 +84,7 @@ pip install pandas numpy plotly matplotlib scikit-learn beautifulsoup4
 
 ---
 
-**Author**: Natdaporn Thong  
-**Project**: 33E-PH03-01  
+**Author**: Natdaporn Thongphan (Natdaporn T.)  
+**Institution**: Mahidol Wittayanusorn School, Nakhon Pathom, Thailand  
+**Project Code**: 33E-PH03-01  
 **Repo**: [natdaporntho/aurora-solar-correlation](https://github.com/natdaporntho/aurora-solar-correlation)
