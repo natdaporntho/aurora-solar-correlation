@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+
+# Jupyter Notebook outputs (optional - keep if you want)
+# *.ipynb checkpoints are already ignored above
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated/derived data files
+codes/ae.csv
+codes/dst.csv
+
+# Large media files (optional)
+*.mp4
+*.mov
+*.MOV
+
+# Microsoft Office temp files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+~$*.doc
